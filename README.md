@@ -73,12 +73,6 @@ Predictive modeling shows that demographic variables can help estimate salary le
 
 Visual analysis highlights potential biases and inequalities in salary outcomes.
 
-🔗 References
-
-Original Kaggle Notebook
-
-GitHub Project Repository
-
 📜 License
 
 This project is intended for educational and research purposes only.
