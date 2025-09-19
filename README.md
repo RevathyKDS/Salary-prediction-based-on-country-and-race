@@ -59,11 +59,6 @@ git clone https://github.com/RevathyKDS/Salary-prediction-based-on-country-and-r
 cd Salary-prediction-based-on-country-and-race
 
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-
 (You may need to create this file with the libraries listed in the Tech Stack section.)
 
 Open the notebook:
